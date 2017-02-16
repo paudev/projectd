@@ -1,0 +1,36 @@
+body {
+    background-color: #fafafa;
+}
+
+.red {
+    background-color: #F44336 !important;
+}
+
+.indigo {
+    background-color: #3F51B5 !important;
+}
+
+.teal {
+    background-color: #009688 !important
+}
+
+.color-white {
+    color:#fff !important;
+}
+
+.color-red {
+    color:#F44336 !important
+}
+
+.color-indigo {
+    color:#3F51B5 !important
+}
+
+.color-teal {
+    color: #009688 !important
+}
+
+.img-responsive {
+    height:auto !important;
+    max-width: 100% !important;
+}
