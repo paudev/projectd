@@ -2,7 +2,7 @@
 	if (typeof define === "function" && define.amd) {
 		define(['exports', 'moment', 'Draggabilly'], factory);
 	} else if (typeof exports !== "undefined") {
-		factory(exports, require('moment'), require('Draggabilly'));
+		factory(exports, require('moment'), require('draggabilly'));
 	} else {
 		var mod = {
 			exports: {}
